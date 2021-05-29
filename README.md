@@ -1,7 +1,7 @@
 # Predicting customer churn with Spark
 Define what customer would churn from Sparkify's online services. The project uses pySpark to engineer features and to build classification model to predict churn.
 
-Add image
+![Predicting customer chrun](https://github.com/rabadzhiyski/SparkProject/blob/main/Sparkify_.png "Sparkify")
 
 ## Project Overview
 Sparkify (a made-up company) provides online music services. With this project we developed a machine learning model to predict customer churn. The project uses pySpark libraries and it was developed with Jupyter notebooks developed on a local PC. A Spark cluster was also tested in [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio). There are three data sets available with customer data - mini, medium, and a 12GB data set. None of them are available in this repository due to their size. The project consists of:

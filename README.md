@@ -4,6 +4,9 @@ Define what customer would churn from Sparkify's online services. The project us
 ![Predicting customer chrun](https://github.com/rabadzhiyski/SparkProject/blob/main/Sparkify_.png "Sparkify")
 *In case of troubles loading the .ipnb files wihtin Github, you can copy/paste the link of the document here: https://nbviewer.jupyter.org/*
 
+**Attention:**
+*Data sets were not added to the repository due to their size. The SparkifySpark version reads data from the cluster, adjustments might be needed if the code is tested: the correct path to the data sets should be entered in the df call!"*
+
 ## Project Overview
 Sparkify (a made-up company) provides online music services. With this project we developed a machine learning model to predict customer churn. The project uses PySpark libraries and it was developed with Jupyter notebooks developed on a local PC. A Spark cluster was also used in [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio). There are three data sets available with customer data - mini, medium, and a 12GB data set. None of them are available in this repository due to their size. Mini version was used locally, and the medium-sized data was used in the cluster. The project consists of:
 - Jupyter Notebook - where all code is available (working and final version)
